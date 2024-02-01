@@ -19,7 +19,7 @@ Upload, organize, and access files from anywhere!
 5. Tailwind
 6. TS
 
-## Screenshots
+## 📸 Screenshots
 
 ### 🏠 Home Page
 
