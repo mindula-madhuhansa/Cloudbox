@@ -3,7 +3,7 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAd2iw_Q1Os0ppsqQ75RPkkrEy87FigEuM",
+  apiKey: "FIREBASE_API_KEY",
   authDomain: "cloudbox-f3f43.firebaseapp.com",
   projectId: "cloudbox-f3f43",
   storageBucket: "cloudbox-f3f43.appspot.com",
