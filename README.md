@@ -58,7 +58,3 @@ Upload, organize, and access files from anywhere!
 <img src="./screenshots/rename.png">
 </div>
 </div>
-
-## 🙏 Special Thanks
-
-**This project was completed with the help of [Dropbox Clone by Sonny Sangha](https://youtu.be/FdEY-ZnEikg).**
